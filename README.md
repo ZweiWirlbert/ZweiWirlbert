@@ -10,7 +10,7 @@
 
 - 👨‍💻 I'm currently working on some course project
 - 🌱 I’m currently learning Javascript, ReactJS, Sass
--  I’m looking for help with NodeJS, Sass
+- ✋ I’m looking for help with NodeJS, Sass
 - ♥ My hobbies is playing badminton, listening to music and learning new things
 
 <h1>🛠️ Languages and Tools</h1>

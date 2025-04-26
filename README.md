@@ -1,22 +1,28 @@
-<h1> Hi, I'm Zwei 👋 </h1>
+<!-- GitHub Profile README: Zwei -->
+<h1 align="center">Hey, I'm Zwei 👋</h1>
 
-📚 I'm a student at <a href="www.uef.edu.vn/en">University of Economics and Finance</a> in Ho Chi Minh City, VietNam.<br>
-🏃‍♂️ With all my passion, I'm on my way to becoming a full-stack developer.
+---
+## 🧑‍💻 About Me
 
-[![Facebook profile](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;labelColor=white&amp;logo=facebook&amp;)](https://www.facebook.com/thuy.hoangg.3)
-<h1> More about me </h1>
+```yaml
+name: Zwei
+role: Full-stack Developer
+company: TMA Solutions 🇻🇳
+tech_stack: [JavaScript, TypeScript, Python, Node.js, AWS]
+location: Ho Chi Minh City, Vietnam
+education: >
+  Graduate since 2022 at 
+  University of Economics and Finance
+fun_fact: I probably automate things I should just do manually.
+```
+---
 
-<img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" align="right" width="400" />
+## ⚒️ My Toolbox
 
-- 👨‍💻 I'm currently working on some course project
-- 🌱 I’m currently learning Javascript, ReactJS, Sass
-- ✋ I’m looking for help with NodeJS, Sass
-- ♥ My hobbies is playing badminton, listening to music and learning new things
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,nodejs,aws,react,html,css,git,github,vscode)
 
-<h1>🛠️ Languages and Tools</h1>
+---
+<p align="center">
+  💬 “Code. Deploy. Sleep. Repeat.” ☁️  
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-e07035.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=5fd9fb)
